@@ -24,12 +24,16 @@
   "nvim-lspconfig": { "branch": "master", "commit": "5b364bd4db0fb68a56ffe427a370920854acb834" },
   "nvim-treesitter": { "branch": "master", "commit": "143ca5ce17ae21233101246b5785b90d53aa8329" },
   "nvim-web-devicons": { "branch": "master", "commit": "cb0c967c9723a76ccb1be0cc3a9a10e577d2f6ec" },
+  "otter.nvim": { "branch": "main", "commit": "aadf80b09e9c627bc1e80756e7d8facd8fe07f8f" },
   "plenary.nvim": { "branch": "master", "commit": "f7adfc4b3f4f91aab6caebf42b3682945fbc35be" },
+  "quarto-nvim": { "branch": "main", "commit": "67e09027b5d8bd948907734fc6fb15028ffdcd28" },
   "telescope-ui-select.nvim": { "branch": "master", "commit": "6e51d7da30bd139a6950adf2a47fda6df9fa06d2" },
   "telescope.nvim": { "branch": "master", "commit": "6312868392331c9c0f22725041f1ec2bef57c751" },
   "toggleterm.nvim": { "branch": "main", "commit": "193786e0371e3286d3bc9aa0079da1cd41beaa62" },
   "vim-dadbod": { "branch": "master", "commit": "960bbb7de11b7282a68d579a64e838b487934493" },
   "vim-dadbod-completion": { "branch": "master", "commit": "c920cb0ba3dff4b1b0ed373e1c0b3007dec696c2" },
   "vim-dadbod-ui": { "branch": "master", "commit": "165699c573469e6a95b48d35052f848c340c5911" },
-  "vim-fugitive": { "branch": "master", "commit": "8d4e8d45385c63a0bf735fe1164772116bf0da0d" }
+  "vim-fugitive": { "branch": "master", "commit": "8d4e8d45385c63a0bf735fe1164772116bf0da0d" },
+  "vim-slime": { "branch": "main", "commit": "5af24c02979e07b7f07808910eadb949678d4989" },
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
 }
